@@ -7,7 +7,8 @@ Beast Brawl es el nombre del juego que está siendo desarrollado por Clover Game
 * Rubén Rubio
 * Jesús Mas
 
-
+Juego para descargar: http://uagames.byterealms.com
+Trailer oficial: https://www.youtube.com/watch?v=yN6dJHfcMyk
 ## Compilación
 
 Para compilar nuestro proyecto debes situarte en el directorio raíz (NO en el subdirectorio `src`). Ahí habrá un archivo Makefile para compilar en terminal. Según qué comandos utilices, se trabajará con el proyecto del juego, el motor gráfico o los dos.
